@@ -1,3 +1,3 @@
-# librARy-design
+# LibrARy-design
 
 UI/UX of librARy
